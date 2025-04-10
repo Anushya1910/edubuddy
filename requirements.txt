@@ -2,3 +2,4 @@ streamlit
 gtts
 fuzzywuzzy
 python-Levenshtein
+googletrans==4.0.0-rc1
