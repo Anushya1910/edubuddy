@@ -1,0 +1,10 @@
+{
+  "science": {
+    "english": "https://www.youtube.com/watch?v=basic_science_eng",
+    "tamil": "https://www.youtube.com/watch?v=basic_science_tamil"
+  },
+  "computer": {
+    "english": "https://www.youtube.com/watch?v=basic_comp_eng",
+    "tamil": "https://www.youtube.com/watch?v=basic_comp_tamil"
+  }
+}
